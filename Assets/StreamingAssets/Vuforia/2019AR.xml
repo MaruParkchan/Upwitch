@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Maker10" size="80.000000 80.000000" />
+    <ImageTarget name="Maker9" size="80.000000 80.000000" />
+    <ImageTarget name="Maker8" size="80.000000 80.000000" />
+    <ImageTarget name="Maker7" size="80.000000 80.000000" />
+    <ImageTarget name="Maker6" size="80.000000 80.000000" />
+    <ImageTarget name="Maker5" size="80.000000 80.000000" />
+    <ImageTarget name="Maker4" size="80.000000 80.000000" />
+    <ImageTarget name="Maker3" size="80.000000 80.000000" />
+    <ImageTarget name="Maker2" size="80.000000 80.000000" />
+    <ImageTarget name="Maker1" size="80.000000 80.000000" />
+    <ImageTarget name="Phone" size="80.000000 143.283585" />
+    <ImageTarget name="Cardj" size="80.000000 53.333332" />
+    <ImageTarget name="PBook" size="80.000000 109.965637" />
+    <ImageTarget name="Hand" size="80.000000 91.573929" />
+    <ImageTarget name="001" size="80.000000 27.428572" />
+    <ImageTarget name="002" size="80.000000 28.276730" />
+  </Tracking>
+</QCARConfig>
